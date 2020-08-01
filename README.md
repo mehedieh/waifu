@@ -6,4 +6,4 @@ A simple web application which allows you to share your WiFi credentials instant
 3. Install `wkhtmltopdf` from [here](https://wkhtmltopdf.org/).
 4. Change the `wkhtmltopdf` path in `app.py`.
 ## Demo
-https://waifu.herokuapp.com/
+https://waifu-qr.herokuapp.com/
